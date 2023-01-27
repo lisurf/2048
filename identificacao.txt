@@ -1,0 +1,3 @@
+numero=a48683
+amigos=d1614,a46196,a47560
+fim
